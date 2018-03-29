@@ -15,6 +15,8 @@ Property
 
 string `$mode` is an export mode or import mode. valid value are 'export' and 'import'  
 
+boolean `$autoSizeColumn` for se auto sizing column width (default: false)
+
 boolean `$isMultipleSheet` for set the export excel with multiple sheet.  
 
 array `$properties` for set property on the excel object.  
