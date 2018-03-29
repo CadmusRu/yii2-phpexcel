@@ -1,5 +1,5 @@
 {
-    "name": "moonlandsoft/yii2-phpexcel",
+    "name": "cadmus/yii2-excel-io",
     "description": "Exporting PHP to Excel or Importing Excel to PHP",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","excel","xls","export","import"],
@@ -8,6 +8,10 @@
         {
             "name": "Moh Khoirul Anam",
             "email": "moh.khoirul.anaam@gmail.com"
+        },
+        {
+            "name": "Aleksey Andreyanov",
+            "email": "wrewolf@gmail.com"
         }
     ],
     "require": {
@@ -16,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "moonland\\phpexcel\\": ""
+            "cadmus\\phpexcel\\": ""
         }
     }
 }
